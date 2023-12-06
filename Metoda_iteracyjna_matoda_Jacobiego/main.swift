@@ -1,8 +1,10 @@
-//
-//  Metoda_iteracyjna_matoda_Jacobiego
-//
-//  Radoslaw Borysewicz
-//
+//Metody Numeryczne projekt
+//Wybrana metoda: Metoda iteracyjna Jackobiego
+
+//Student: Radoslaw Borysewicz
+//Numer indeksu: 163708
+//Grupa Dziekańska: U2 Semestr
+
 import Foundation
 
 // Funkcja odczytująca macierz z pliku tekstowego
